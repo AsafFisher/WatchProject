@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#isOnButton{
+  /*width: 40em; height: 20em;*/
+  font-size: 500%;
+}
